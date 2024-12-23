@@ -6,7 +6,7 @@
   <display-name>Archetype Created Web Application</display-name>
   <servlet>
     <servlet-name>student</servlet-name>
-    <servlet-class>api.Student</servlet-class>
+    <servlet-class>api.StudentAPI</servlet-class>
   </servlet>
   
   <servlet-mapping>
